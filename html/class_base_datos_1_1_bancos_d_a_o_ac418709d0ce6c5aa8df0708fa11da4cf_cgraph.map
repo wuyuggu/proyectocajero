@@ -1,0 +1,7 @@
+<map id="BaseDatos.BancosDAO.updateBank" name="BaseDatos.BancosDAO.updateBank">
+<area shape="rect" id="node2" href="$class_base_datos_1_1_d_b_manager.html#a1606e96d0b2c0cc01eec37e7242d3130" title="BaseDatos.DBManager.getConnection" alt="" coords="288,5,533,32"/>
+<area shape="rect" id="node3" href="$class_base_datos_1_1_bancos_v_o.html#a3255cbd7236870047b2769a6b1800ffb" title="BaseDatos.BancosVO.getBanco" alt="" coords="305,56,517,83"/>
+<area shape="rect" id="node4" href="$class_base_datos_1_1_bancos_v_o.html#a845f880c764d48acb29860266edd0827" title="BaseDatos.BancosVO.getDireccion" alt="" coords="296,107,525,133"/>
+<area shape="rect" id="node5" href="$class_base_datos_1_1_bancos_v_o.html#ae19703e1ca8eccf092a56c3c2d03a245" title="BaseDatos.BancosVO.getIntereses" alt="" coords="297,157,525,184"/>
+<area shape="rect" id="node6" href="$class_base_datos_1_1_bancos_v_o.html#a3edd259a5427685da1248d17aad06e5c" title="BaseDatos.BancosVO.getId" alt="" coords="318,208,503,235"/>
+</map>

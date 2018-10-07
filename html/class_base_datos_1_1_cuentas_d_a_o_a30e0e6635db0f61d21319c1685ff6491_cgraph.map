@@ -1,0 +1,4 @@
+<map id="BaseDatos.CuentasDAO.deleteAcount" name="BaseDatos.CuentasDAO.deleteAcount">
+<area shape="rect" id="node2" href="$class_base_datos_1_1_d_b_manager.html#a1606e96d0b2c0cc01eec37e7242d3130" title="BaseDatos.DBManager.getConnection" alt="" coords="259,5,504,32"/>
+<area shape="rect" id="node3" href="$class_base_datos_1_1_cuentas_v_o.html#ab040da4bc7dcf1f33ace62bbdd157f3a" title="BaseDatos.CuentasVO.getCuenta" alt="" coords="271,56,491,83"/>
+</map>
